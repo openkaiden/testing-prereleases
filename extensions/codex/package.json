@@ -2,7 +2,7 @@
   "name": "codex",
   "displayName": "Codex",
   "description": "Codex coding agent",
-  "version": "0.1.0-next",
+  "version": "0.2.0-202606231109-40d9198c3",
   "icon": "icon.png",
   "publisher": "kaiden",
   "license": "Apache-2.0",
