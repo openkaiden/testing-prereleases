@@ -2,7 +2,7 @@
   "name": "openshell-podman-gateway",
   "displayName": "OpenShell Podman Gateway",
   "description": "Auto-starts an OpenShell gateway container on Windows",
-  "version": "0.2.0-next",
+  "version": "0.3.0-202607070457-351c92b0c",
   "publisher": "kaiden",
   "license": "Apache-2.0",
   "engines": {
