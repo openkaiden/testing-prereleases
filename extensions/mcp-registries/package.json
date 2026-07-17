@@ -2,7 +2,7 @@
   "name": "mcp-registries",
   "displayName": "Default MCP Registries",
   "description": "Adds default MCP registries",
-  "version": "0.3.2",
+  "version": "0.3.2-202607170643-d26b94758",
   "icon": "icon.png",
   "publisher": "kaiden",
   "license": "Apache-2.0",

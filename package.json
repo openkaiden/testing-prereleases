@@ -1,9 +1,9 @@
 {
   "name": "kaiden",
   "productName": "Kaiden",
-  "repository": "https://github.com/openkaiden/kaiden",
+  "repository": "https://github.com/openkaiden/testing-prereleases",
   "homepage": "https://www.openkaiden.ai",
-  "version": "0.3.2",
+  "version": "0.3.2-202607170643-d26b94758",
   "license": "apache-2.0",
   "type": "module",
   "private": true,

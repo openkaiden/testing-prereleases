@@ -2,7 +2,7 @@
   "name": "milvus",
   "displayName": "Milvus Knowledges Provider",
   "description": "Provides Milvus vector database for Knowledges",
-  "version": "0.3.2",
+  "version": "0.3.2-202607170643-d26b94758",
   "icon": "milvus-icon-color.png",
   "publisher": "kaiden",
   "license": "Apache-2.0",
