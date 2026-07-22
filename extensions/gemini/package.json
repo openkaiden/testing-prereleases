@@ -2,7 +2,7 @@
   "name": "gemini",
   "displayName": "Gemini",
   "description": "Integration for Gemini",
-  "version": "0.3.3",
+  "version": "0.3.3-202607221329-0b384a21a",
   "icon": "icon.png",
   "publisher": "kaiden",
   "license": "Apache-2.0",

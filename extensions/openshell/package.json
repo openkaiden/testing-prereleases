@@ -2,7 +2,7 @@
   "name": "openshell",
   "displayName": "OpenShell",
   "description": "Registers the openshell CLI binary for managing sandboxed workspaces.",
-  "version": "0.3.3",
+  "version": "0.3.3-202607221329-0b384a21a",
   "openshellVersion": "0.0.69",
   "openshellImageBuilderVersion": "0.9.0",
   "icon": "icon.png",
