@@ -2,7 +2,7 @@
   "name": "mistral",
   "displayName": "Mistral",
   "description": "Integration for Mistral",
-  "version": "0.4.0-next",
+  "version": "0.4.0-202609210601-74c8af27c",
   "icon": "icon.png",
   "publisher": "kaiden",
   "license": "Apache-2.0",
