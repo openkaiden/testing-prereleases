@@ -2,7 +2,7 @@
   "name": "openclaw",
   "displayName": "OpenClaw",
   "description": "OpenClaw coding agent",
-  "version": "0.4.0-next",
+  "version": "0.4.0-202610080709-f34ac2fae",
   "icon": "icon.png",
   "publisher": "kaiden",
   "license": "Apache-2.0",
