@@ -169,6 +169,11 @@ jobs:
       - name: Run Build and Compile on all platforms
         timeout-minutes: 60
         shell: bash
+        env:
+          # Temporary: surface the flatpak-builder subprocess stderr, which
+          # electron-builder otherwise swallows (only the exit code reaches the
+          # log), to diagnose the intermittent flatpak build-init failure.
+          DEBUG: '@malept/flatpak-bundler,electron-builder'
         run: |
           if [ -n "${{ matrix.windows_arch }}" ]; then
             pnpm exec cross-env MODE=production pnpm run build
