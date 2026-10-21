@@ -1,1 +1,2 @@
 addin files
+foo
