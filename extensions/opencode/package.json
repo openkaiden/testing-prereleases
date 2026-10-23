@@ -2,7 +2,7 @@
   "name": "opencode",
   "displayName": "OpenCode",
   "description": "OpenCode coding agent",
-  "version": "0.4.0-next",
+  "version": "0.4.0-202610230551-b6632a47d",
   "icon": {
     "light": "icon_light.png",
     "dark": "icon_dark.png"
