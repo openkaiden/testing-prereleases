@@ -2,7 +2,7 @@
   "name": "openshift-ai",
   "displayName": "OpenShift AI",
   "description": "Integration for OpenShift AI",
-  "version": "0.4.1",
+  "version": "0.4.1-202611061149-76d7b06cb",
   "icon": {
     "light": "icon_light.png",
     "dark": "icon_dark.png"

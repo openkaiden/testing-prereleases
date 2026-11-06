@@ -2,7 +2,7 @@
   "name": "copilot",
   "displayName": "GitHub Copilot",
   "description": "Integration for GitHub Copilot CLI",
-  "version": "0.4.1",
+  "version": "0.4.1-202611061149-76d7b06cb",
   "icon": {
     "light": "./icon_light.png",
     "dark": "./icon_dark.png"

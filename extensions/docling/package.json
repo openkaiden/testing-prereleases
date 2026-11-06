@@ -2,7 +2,7 @@
   "name": "docling",
   "displayName": "Docling Chunk Provider",
   "description": "Registers a Docling chunk provider for Knowledges",
-  "version": "0.4.1",
+  "version": "0.4.1-202611061149-76d7b06cb",
   "publisher": "kaiden",
   "license": "Apache-2.0",
   "engines": {
