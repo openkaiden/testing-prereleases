@@ -2,7 +2,7 @@
   "name": "cursor",
   "displayName": "Cursor",
   "description": "Integration for Cursor",
-  "version": "0.4.2",
+  "version": "0.4.2-202611100839-88a3e35d9",
   "icon": {
     "light": "APP_ICON_2D_LIGHT.png",
     "dark": "APP_ICON_2D_DARK.png"
